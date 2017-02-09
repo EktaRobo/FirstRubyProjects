@@ -1,0 +1,1 @@
+https://api.coursera.org/api/catalog.v1?fields=smallicon,shortDescription&q=search&query=ruby
