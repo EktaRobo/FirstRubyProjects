@@ -1,0 +1,7 @@
+<% if @order.errors.any?%>
+    alert("<%=@order.errors.full_messages.to_sentence%>")
+<% elsif  @order_item.errors.any?%>
+    alert("Order item error")
+<% else %>
+  $(".cart-text").html("<%= escape_javascript(render 'layouts/cart_text') %>")
+<% end %>
