@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Grocers</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @grocers.each do |grocer| %>
+      <tr>
+        <td><%= grocer.name %></td>
+        <td><%= grocer.address %></td>
+        <td><%= grocer.phone_no %></td>
+        <td><%= link_to 'Show', grocer %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+

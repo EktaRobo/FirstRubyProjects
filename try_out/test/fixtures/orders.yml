@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Grocer: one
+  Client: one
+  Order_status: one
+
+two:
+  Grocer: two
+  Client: two
+  Order_status: two

@@ -1,0 +1,17 @@
+<%= form_for(grocer) do |f| %>
+  <% if grocer.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(grocer.errors.count, "error") %> prohibited this grocer from being saved:</h2>
+
+      <ul>
+      <% grocer.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

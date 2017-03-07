@@ -1,0 +1,1000 @@
+  116  apt dumb badging '/home/ekta/Downloads/HP Latex Mobile_v2.1.1_apkpure.com.apk'
+  117  aapt dump badging '/home/ekta/Downloads/HP Latex Mobile_v2.1.1_apkpure.com.apk'
+  118  aapt
+  119  '/home/ekta/Android/Sdk/build-tools/23.0.2/aapt' dump badging '/home/ekta/Downloads/HP Latex Mobile_v2.1.1_apkpure.com.apk'
+  120  adb install '/home/ekta/Downloads/HP Latex Mobile_v2.1.1_apkpure.com.apk'
+  121  ls
+  122  cd /etc
+  123  ls
+  124  cd /usr/lib
+  125  ls\
+  126  ls
+  127  ls -la
+  128  er.d
+  129  python
+  130  sudo apt-get install build-essential
+  131  sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+  132  python
+  133  python3
+  134  pip3 install opencv
+  135  sudo apt-get install python3-pip
+  136  pip3
+  137  pip3 install opencv
+  138  sudo apt-get install python-opencv
+  139  pip3 install pyopencv
+  140  pip install pyopencv
+  141  sudo apt-get build-dep python-opencv
+  142  sudo apt-get pip
+  143  sudo apt-get install pip
+  144  sudo apt-get install python- pip
+  145  apt-get install python- pip
+  146  exit
+  147  apt-get install python- pip
+  148  apt-get install python-pip
+  149  quit
+  150  exit
+  151  pip install pyopencv
+  152  pip3 install pyopencv
+  153  sudo apt-get build-dep python-opencv
+  154  conda
+  155  apt get install conda
+  156  apt-get install conda
+  157  pip
+  158  sudo apt-get install python-pip
+  159  pip
+  160  sudo apt-get install python-pip
+  161  pip install pyopencv
+  162  um install numpy opencv
+  163  apt-get install numpy opencv
+  164  sudo apt-get install numpy opencv
+  165  sudo apt-get install numpy
+  166  numpy
+  167  python
+  168  sh '/home/ekta/Desktop/test.sh'
+  169  pythin3
+  170  python3
+  171  adb install '/home/ekta/workspace/Android/Build_44/Production/5min/LatexMobile.apk'
+  172  ls
+  173  mkdir dagger2
+  174  cd dagger2/
+  175  git clone git@github.com:frogermcs/GithubClient.git
+  176  sudo add-apt-repository ppa:umang/indicator-stickynotes
+  177  sudo apt-get install indicator-stickynotes
+  178  sudo apt-get update
+  179  sudo apt-get install indicator-stickynotes
+  180  rm -rf ~/.skype
+  181  sudo apt-get update; sudo apt-get install skype
+  182  sudo apt-get remove skype skype-bin
+  183  ekta@Ekta-Ubuntu:~$
+  184  adb shell monkey -p com.hp  -v 5000
+  185  adb shell monkey -p com.hp.splash.SplashActivity -v 5000
+  186  adb shell monkey -p com.hp.splash -v 5000
+  187  adb shell monkey -p com.hp -v 5000
+  188  adb shell monkey -p com.hp.latextogo -v 5000
+  189  adb shell monkey -p com.hp.latextogo -v 15000
+  190  adb shell monkey -p com.hp.latextogo -v 5000
+  191  adb shell monkey -p com.hp.latextogo -v 15000
+  192  adb shell monkey -p com.hp.latextogo -v 5000
+  193  adb install'/home/ekta/workspace/Android/Build_47/Production/5min/LatexMobile.apk'
+  194  adb install '/home/ekta/workspace/Android/Build_47/Production/5min/LatexMobile.apk'
+  195  adb install '/home/ekta/workspace/Android/Build_47/Production/5min/LatexMobile.apk'
+  196  adb install '/home/ekta/workspace/Android/Build_48/Production/5min/LatexMobile.apk'
+  197  ssh-keygen
+  198  cd /home/ekta/.ssh/id_rsa
+  199  cd home/ekta/.ssh/id_rsa
+  200  cd ..
+  201  xclip -sel clip < ~/.ssh/id_rsa.pub
+  202  sudo apt-get install xclip
+  203  xclip -sel clip < ~/.ssh/id_rsa.pub
+  204  cat ~/.ssh/id_rsa.pub
+  205  cd '/home/ekta/wire'
+  206  git clone https://gitlab.robosoftin.com/root/Wire_Android.git
+  207  sudo git config --global http.sslVerify false
+  208  git clone git@gitlab.robosoftin.com:root/Wire_Android.git
+  209  adb uninstall com.kotak.kaypay
+  210  adb shell pm clear com.kotak.kaypay
+  211  adb uninstall com.kotak.kaypay
+  212  adb install com.kotak.kaypay
+  213  adb uninstall com.kotak.kaypay
+  214  adb shell pm clear com.kotak.kaypay
+  215  adb uninstall com.kotak.kaypay
+  216  adb shell pm clear com.kotak.kaypay
+  217  adb uninstall com.kotak.kaypay
+  218  adb shell pm clear com.kotak.kaypay
+  219  adb uninstall com.kotak.kaypay
+  220  adb shell pm clear com.kotak.kaypay
+  221  adb uninstall com.kotak.kaypay
+  222  adb shell pm clear com.kotak.kaypay
+  223  adb uninstall com.kotak.kaypay
+  224  adb shell pm clear com.kotak.kaypay
+  225  adb install '/home/ekta/workspace/Android/Build_50/Production/5min/LatexMobile.apk'
+  226  adb uninstall com.kotak.kaypay
+  227  adb shell pm clear com.kotak.kaypay
+  228  adb uninstall com.kotak.kaypay
+  229  adb install '/home/ekta/Wire_Android/KayPay/app/build/outputs/apk/app-production-debug-unaligned.apk'
+  230  adb shell pm clear com.kotak.kaypay
+  231  adb install com.kotak.kaypay
+  232  adb uninstall com.kotak.kaypay
+  233  adb install com.kotak.kaypay
+  234  adb shell pm clear com.kotak.kaypay
+  235  adb uninstall com.kotak.kaypay
+  236  adb shell pm clear com.kotak.kaypay
+  237  adb uninstall com.kotak.kaypay
+  238  adb shell pm clear com.kotak.kaypay
+  239  adb uninstall com.kotak.kaypay
+  240  adb shell pm clear com.kotak.kaypay
+  241  adb uninstall com.kotak.kaypay
+  242  adb shell pm clear com.kotak.kaypay
+  243  adb uninstall com.kotak.kaypay
+  244  adb shell pm clear com.kotak.kaypay
+  245  adb uninstall com.kotak.kaypay
+  246  adb install '/home/ekta/Downloads/Build_46/KayPay_UAT.apk'
+  247  adb uninstall com.kotak.kaypay
+  248  adb shell pm clear com.kotak.kaypay
+  249  adb uninstall com.kotak.kaypay
+  250  adb shell pm clear com.kotak.kaypay
+  251  adb uninstall com.kotak.kaypay
+  252  adb shell pm clear com.kotak.kaypay
+  253  adb uninstall com.kotak.kaypay
+  254  adb shell pm clear com.hp.latextogo
+  255  cd '/home/ekta/Wire_Android/KayPay/app/libs'
+  256  git status
+  257  git commit
+  258  git commit -m "Library commit"
+  259  clear
+  260  cd '/home/ekta/Wire_Android/Kaypay'
+  261  git clone "https://gitlab.robosoftin.com/root/Wire_Android.git"
+  262  cd '/home/ekta/kaypaynew'
+  263  git clone "https://gitlab.robosoftin.com/root/Wire_Android.git"
+  264  cd '/home/ekta/workspace/Android/Build_55/Production/5min'
+  265  adb install'/home/ekta/workspace/Android/Build_55/Production/5min/LatexMobile.apk'
+  266  ls ~
+  267  cd ..
+  268  cd ~
+  269  adb install '/home/ekta/workspace/Android/Build_55/Production/5min/LatexMobile.apk'
+  270  git clone https://gitlab.robosoftin.com/root/android_evaluation_2016_Ekta_K.git
+  271  ls
+  272  cd android_evaluation_2016_Ekta_K
+  273  sublime a.txt
+  274  gedit a.txt
+  275  git add
+  276  git add a.txt
+  277  git commit -m "First Commit"
+  278  git status
+  279  git push origin master
+  280  git clone https://gitlab.robosoftin.com/root/Evaluation2016.git
+  281  cd '/home/ekta/Evaluation_2016'
+  282  git clone https://gitlab.robosoftin.com/root/Evaluation2016.git
+  283  git status
+  284  cd ..
+  285  cd '/home/ekta/android_evaluation_2016_Ekta_K'
+  286  git status
+  287  git add '/home/ekta/android_evaluation_2016_Ekta_K/TryOut4'
+  288  git status
+  289  git config --global core.excludesfile ~/.gitignore
+  290  git status
+  291  git commit -m "Initial Commit with retrofit configuration"
+  292  git status
+  293  cd '/home/ekta/android_evaluation_2016_Ekta_K/Evaluation'
+  294  cd ..
+  295  git add '/home/ekta/android_evaluation_2016_Ekta_K/Evaluation'
+  296  git commit -m "
+  297  git config --global core.excludesfile ~/.gitignore
+  298  git clone https://gitlab.robosoftin.com/root/Wire_Android.git
+  299  cd '/home/ekta/Wire_android_1'
+  300  git clone https://gitlab.robosoftin.com/root/Wire_Android.git
+  301  adb uninstall com.kotak.kaypay
+  302  adb install '/home/ekta/Downloads/KayPay_UAT.apk'
+  303  adb shell pm clear com.kotak.kaypay
+  304  adb uninstall com.kotak.kaypay
+  305  adb install '/home/ekta/Downloads/Messenger_v87.0.0.15.69_apkpure.com.apk'
+  306  adb install '/home/ekta/Wire_android_1/Wire_Android/KayPay/app/app-production-release.apk'
+  307  adb install '/home/ekta/Downloads/Messenger_v87.0.0.15.69_apkpure.com.apk'
+  308  adb install '/home/ekta/Wire_android_1/Wire_Android/KayPay/app/app-production-release.apk'
+  309  adb install '/home/ekta/workspace/Android/Build_57/Production/5min/LatexMobile.apk'
+  310  adb install '/home/ekta/Downloads/Facebook_v94.0.0.17.68_apkpure.com.apk'
+  311  java -version
+  312  sudo apt-get update
+  313  sudo apt-get install openjdk-8-jdk
+  314  sudo apt-get install openjdk-8-jre
+  315  sudo apt-get install stopwatch
+  316  sudo add-apt-repository ppa:webupd8team/java
+  317  sudo apt-get update
+  318  sudo apt-get install oracle-java8-installer
+  319  java -version
+  320  /var
+  321  cd '/var/www/html'
+  322  cd ..
+  323  sudo chmod -R 777 ./
+  324  apache2
+  325  sudo apt-get install apache2-bin
+  326  sudo service apache2 restart
+  327  sudo apt-get install apache2
+  328  sudo service apache2 restart
+  329  ping google.com
+  330  ifconfig
+  331  ifconfig
+  332  adb shell pm clear com.kotak.kaypay
+  333  adb install '/home/ekta/workspace/Android/Build_59/Production/5min/LatexMobile.apk'
+  334  adb install '/home/ekta/workspace/Android/Build_60/Production/5min/LatexMobile.apk'
+  335  adb uninstall com.hp.latextogo
+  336  adb install '/home/ekta/workspace/Android/Build_60/Integration/5min/LatexMobile.apk'
+  337  adb install '/home/ekta/workspace/Android/Build_60/Production/5min/LatexMobile.apk'
+  338  adb install '/home/ekta/workspace/Android/Build_61/Production/5min/LatexMobile.apk'
+  339  ifconfig
+  340  bit
+  341  adb install '/home/ekta/Downloads/AndroidSwipeLayout-v1.1.8.apk'
+  342  adb install '/home/ekta/workspace/Android/Build_62/Production/5min/LatexMobile.apk'
+  343  adb install '/home/ekta/workspace/Android/Build_62/Production/10sec/LatexMobile.apk'
+  344  adb install '/home/ekta/workspace/Android/Build_63/Production/5min/LatexMobile.apk'
+  345  adb install '/home/ekta/workspace/Android/Build_64/Production/5min/LatexMobile.apk'
+  346  adb install '/home/ekta/workspace/Android/Build_54/Production/5min/LatexMobile.apk'
+  347  adb install '/home/ekta/workspace/Android/Build_60/Production/5min/LatexMobile.apk'
+  348  adb install '/home/ekta/workspace/Android/Build_55/Production/5min/LatexMobile.apk'
+  349  adb install '/home/ekta/workspace/Android/Build_54/Production/5min/LatexMobile.apk'
+  350  adb install '/home/ekta/workspace/Android/Build_55/Production/5min/LatexMobile.apk'
+  351  adb install '/home/ekta/workspace/Android/Build_64/Production/5min/LatexMobile.apk'
+  352  sudo apt-get install cifs-utils
+  353  sudo mkdir /media/shar
+  354  sudo nano /etc/nsswitch.conf
+  355  sudo apt-get install winbind
+  356  sudo cp /etc/fstab /etc/fstab_old
+  357  sudo nano /root/.smbcredentials
+  358  sudo chmod 700 /root/.smbcredentials
+  359  sudo nano /etc/fstab
+  360  sudo mount -
+  361  sudo mount -a
+  362  sudo nano /etc/fstab
+  363  sudo mount -a
+  364  sudo chmod 700 /root/.smbcredentials
+  365  sudo nano /root/.smbcredentials
+  366  sudo nano /etc/fstab
+  367  sudo mount -a
+  368  sudo nano /etc/fstab
+  369  sudo mount -a
+  370  sudo nano /etc/fstab
+  371  sudo mount -a
+  372  sudo mkdir /media/DroidDeigo
+  373  sudo nano /etc/fstab
+  374  sudo mount -a
+  375  sudo nano /etc/fstab
+  376  sudo mount -a
+  377  sudo unmount -a
+  378  sudo mount -a
+  379  sudo nano /etc/fstab
+  380  sudo mount -a
+  381  sudo nano /etc/fstab
+  382  sudo mount -t cifs //tempfs.robosoftin.com/projects/Droiddiego /media/DroidDeigo -o username=ekta.k@robosoftin.com,password=MRSEKtaS2G@R,iocharset=utf8,file_mode=0777,dir_mode=0777
+  383  sudo mkdir /media/DroidDiego
+  384  sudo nano /etc/nsswitch.conf
+  385  sudo apt-get install winbind
+  386  sudo nano /root/.smbcredentials
+  387  sudo chmod 700 /root/.smbcredentials
+  388  sudo nano /etc/fstab
+  389  sudo mount -a
+  390  sudo gedit /etc/fstab
+  391  sudo mount -a
+  392  sudo gedit /etc/fstab
+  393  sudo mount -a
+  394  sudo gedit /etc/fstab
+  395  sudo mount -a
+  396  sudo gedit /etc/fstab
+  397  sudo mount -a
+  398  sudo chmod 700 /root/.smbcredentials
+  399  sudo nano /etc/fstab
+  400  sudo mount -a
+  401  sudo chmod 700 /root/.smbcredentials
+  402  sudo nano /etc/fstab
+  403  sudo mount -a
+  404  sudo nano /etc/fstab
+  405  sudo gedit /etc/fstab
+  406  sudo mount -a
+  407  sudo nano /root/.smbcredentials
+  408  sudo mount -a
+  409  sudo umount -a
+  410  sudo mount -a
+  411  sudo umount -a
+  412  sudo mount -a
+  413  sudo nano /etc/fstab
+  414  sudo gedit /etc/fstab
+  415  sudo mount -a
+  416  sudo chmod 700 /root/.smbcredentials
+  417  sudo gedit /etc/fstab
+  418  sudo umount -a
+  419  sudo mount -a
+  420  sudo cp /etc/fstab /etc/fstab_old
+  421  sudo nano /root/.smbcredentials
+  422  sudo chmod 700 /root/.smbcredentials
+  423  sudo /etc/fstabsudo nano /etc/fstab
+  424  sudo nano /etc/fstab
+  425  sudo mount -a
+  426  sudo gedit /etc/fstab
+  427  sudo mount -a
+  428  sudo umount -a
+  429  sudo mount -a
+  430  sudo gedit /etc/fstab
+  431  sudo mount -a
+  432  sudo umount -a
+  433  sudo mount -a
+  434  sudo gedit /etc/fstab
+  435  id
+  436  sudo mount -a
+  437  adb install '/home/ekta/workspace/Android/Build_64/Integration/5min/LatexMobile.apk'
+  438  cd '/home/ekta/AndroidStudioProjects/Droiddiego'
+  439  git clone '/media/DroidDiego/Source/DroidDiego.git'
+  440  adb install '/home/ekta/workspace/Android/Build_64/Production/5min/LatexMobile.apk'
+  441  adb install '/home/ekta/workspace/Android/Build_60/Production/5min/LatexMobile.apk'
+  442  adb install '/home/ekta/workspace/Android/Build_55/Production/5min/LatexMobile.apk'
+  443  adb install '/home/ekta/workspace/Android/Build_56/Production/5min/LatexMobile.apk'
+  444  adb install '/home/ekta/workspace/Android/Build_57/Production/5min/LatexMobile.apk'
+  445  adb install '/home/ekta/workspace/Android/Build_58/Production/5min/LatexMobile.apk'
+  446  adb install '/home/ekta/workspace/Android/Build_40/Production/5min/LatexMobile.apk'
+  447  pkill java
+  448  cd '/home/ekta/AndroidStudioProjects/Personal/android-architecture/RecyclerSearchView'
+  449  git clone https://github.com/EktaRobo/RecyclerViewSearch.git
+  450  cd '/home/ekta/AndroidStudioProjects/Personal/android-architecture/ServiceExample'
+  451  git clone https://github.com/EktaRobo/ServiceExample.git
+  452  cd '/home/ekta/AndroidStudioProjects/Personal/ServiceExample/ServiceExample'
+  453  git clone https://github.com/EktaRobo/ServiceExample.git
+  454  cd '/home/ekta/AndroidStudioProjects/Personal/ServiceExample/ServiceExample/ServiceExample'
+  455  git clone https://github.com/EktaRobo/ServiceExample.git
+  456  adb install '/home/ekta/workspace/Android/Build_60/Production/5min/LatexMobile.apk'
+  457  adb install '/home/ekta/workspace/Android/Build_65/Production/5min/LatexMobile.apk'
+  458  adb install '/home/ekta/Downloads/ES File Explorer File Manager_v4.1.5_apkpure.com.apk'
+  459  python -V
+  460  python --version
+  461  python3 --version
+  462  subl --help
+  463  subl -n openBrowser.py
+  464  idle
+  465  sudo apt-get install idle
+  466  idle
+  467  sudo apt-get update
+  468  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs
+  469  cd
+  470  git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+  471  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+  472  echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+  473  exec $SHELL
+  474  git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+  475  echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+  476  exec $SHELL
+  477  rbenv install 2.4.0
+  478  rbenv global 2.4.0
+  479  ruby -v
+  480  gem install bundler
+  481  rbenv rehash
+  482  irb
+  483  ssh -T git@github.com
+  484  irb
+  485  ruby -v
+  486  irb
+  487  ruby guessmynumber.rb
+  488  irb
+  489  sudo apt-get install gespeaker
+  490  erb
+  491  erb erbdemo.rb
+  492  git clone git@github.com:jhu-ep-coursera/fullstack-course1-module2.git
+  493  history
+  494  curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+  495  sudo apt-get install -y nodejs
+  496  gem install rails -v 5.0.1
+  497  rbenv rehash
+  498  rails -v
+  499  irb
+  500  ruby guessmynumber.rb
+  501  irb
+  502  git clone https://github.com/jhu-ep-coursera/fullstack-course1-module3.git
+  503  cd RailsPersonal
+  504  rails new my_first_app
+  505  cd my_first_app
+  506  git init
+  507  git ssh -T git@github.com
+  508  ssh -T git@github.com
+  509  git rm my_first_app
+  510  cd ..
+  511  git clone https://github.com/EktaRobo/FirstRubyProjects.git
+  512  cd https://github.com/EktaRobo/FirstRubyProjects.gi
+  513  cd FirstRubyProjects
+  514  git status
+  515  git add
+  516  git add .\
+  517  git add .
+  518  git status
+  519  git commit - m "Initial Commit"
+  520  git commit -m "Initial Commit"
+  521  git push
+  522  git push origin master\
+  523  git push origin master
+  524  cd ..
+  525  sudo apt-get install nautilus-open-terminal
+  526  rails g controller greeter hello
+  527  rake --tasks
+  528  rake routes
+  529  gem
+  530  gem list
+  531  gem list httparty
+  532  gem install httparty
+  533  gem list httparty
+  534  gem list httparty -d
+  535  rails server
+  536  gem list pp
+  537  gem install pp
+  538  ruby rb
+  539  ruby coursera.rb
+  540  clear
+  541  ruby coursera.rb
+  542  bundle
+  543  rails g controller courses index
+  544  rails server
+  545  cd ..
+  546  history
+  547  git status
+  548  git add
+  549  git add my_first_app
+  550  git status
+  551  git commit -m "My First Rails App"
+  552  git push origin master\
+  553  git push origin master
+  554  ls
+  555  cd ..
+  556  ls
+  557  cd ruby-test
+  558  ls
+  559  ruby calculator_test.rb
+  560  sudo gem install test-unit -v 1.2.3
+  561  ruby calculator_test.rb
+  562  sudo gem install test-unit
+  563  ruby calculator_test.rb
+  564  ruby calculator_spec.rb
+  565  rspec
+  566  ruby '/home/ekta/RailsPersonal/httparty.rb'
+  567  httparty "https://api.stackexchange.com/2.2/questions?site=stackoverflow"
+  568  cd '/home/ekta/RailsPersonal/FirstRubyProjects/ruby_assignment/student-start'
+  569  rspec
+  570  ruby solution.rb
+  571  clear
+  572  ruby solution.rb
+  573  FOOD2FORK_KEY = 49aff37b59d3a4929a60445ef31034a7
+  574  adb install LatexMobile.apk
+  575  gem install rspec
+  576  rspec --init
+  577  ls
+  578  ls .rspec
+  579  rm .rspec
+  580  rm spec
+  581  cd RailsPersonal
+  582  rm spec
+  583  sudo rm spec
+  584  rmdir spec
+  585  cd '/home/ekta/RailsPersonal/ruby-test'
+  586  rspec --init
+  587  cd spec
+  588  ruby calculator_spec.rb
+  589  rspec
+  590  cd ..
+  591  rspec
+  592  rspec --format documentation
+  593  rspec --f d
+  594  rspec --format documentation
+  595  gem install rspec-its
+  596  gem install webmock
+  597  history
+  598  FOOD2FORK_KEY=49aff37b59d3a4929a60445ef31034a7
+  599  export 49aff37b59d3a4929a60445ef31034a7
+  600  export FOOD2FORK_KEY
+  601  ruby solutions.rb
+  602  ruby solution.rb
+  603  clear
+  604  ruby solution.rb
+  605  irb
+  606  printenv FOOD2FORK_KEY
+  607  printenv
+  608  FOOD2FORK_KEY=49aff37b59d3a4929a60445ef31034a7
+  609  export FOOD2FORK_KEY
+  610  printenv FOOD2FORK_KEY
+  611  printenv FOOD2FORK_KE
+  612  printenv FOOD2FORK_KEY
+  613  FOOD2FORK_KEY=49aff37b59d3a4929a60445ef31034a7
+  614  export FOOD2FORK_KEY
+  615  printenv FOOD2FORK_KEY
+  616  irb
+  617  cd '/home/ekta/RailsPersonal/FirstRubyProjects/ruby_assignment/student-start'
+  618  printenv FOOD2FORK_KEY
+  619  ruby solution.rb
+  620  printenv FOOD2FORK_KEY
+  621  FOOD2FORK_KEY=49aff37b59d3a4929a60445ef31034a7
+  622  export FOOD2FORK_KEY
+  623  ruby solution.rb
+  624  cd '/home/ekta/RailsPersonal/FirstRubyProjects/ruby_assignment/student-start'
+  625  ruby solution.rb
+  626  rspec
+  627  cd ..
+  628  ls
+  629  cd my_first_app
+  630  heroku login
+  631  git remote -v
+  632  heroku create mysearch-coursera
+  633  heroku create mysearch-coursera-me
+  634  git remote -v
+  635  git init
+  636  git add .
+  637  git commit -m "my first commit"
+  638  heroku
+  639  git commit -m "my first commit"
+  640  heroku git:remote -a nameless-atoll-49824
+  641  git push heroku master
+  642  git remote -v
+  643  git push heroku master
+  644  git
+  645  git push heroku master
+  646  gem install bundler
+  647  git push heroku master
+  648  heroku git:remote -a mysearch-coursera
+  649  heroku git:remote -a mysearch-coursera-my
+  650  heroku git:remote -a nameless-atoll-49824
+  651  git commit -m "my first commit"
+  652  git push heroku master
+  653  gem
+  654  git add .
+  655  git status
+  656  git commit -m "gem lock"
+  657  git push heroku master
+  658  git push origin master
+  659  cd ..
+  660  git status
+  661  git add .
+  662  git status
+  663  git commit -m "Trying out"
+  664  git push origin master
+  665  git status
+  666  cd .l.
+  667  cd ..
+  668  git status
+  669  cd my_first_app
+  670  rails server
+  671  git status
+  672  git commit -m "Trying out gem file correction"
+  673  git add .
+  674  git commit -m "Trying out gem file correction"
+  675  git push origin master
+  676  cd ..
+  677  git add .
+  678  git commit -m "Trying out gem file correction"
+  679  git push origin master
+  680  sudo apt-get purge google-chrome-stable
+  681  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  682  sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+  683  sudo apt-get update
+  684  sudo apt-get install google-chrome-stable
+  685  sudo apt-get install software-properties-common # debian only
+  686  sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
+  687  curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
+  688  sudo apt-get update
+  689  sudo apt-get install heroku
+  690  heroku --version
+  691  heroku login
+  692  create search-coursera-jhu
+  693  heroku create search-coursera-jhu
+  694  heroku create mysearch-coursera-jhu
+  695  heroku create mysearch-coursera
+  696  git remote -v
+  697  gem install bundler
+  698  gem install bundler 1.14.3
+  699  history >> history.txt
+  700  subl history.txt
+  701  git clone https://github.com/jhu-ep-coursera/fullstack-course2-module1-fancy_cars.git
+  702  rails new fancy_cars
+  703  cd fancy_cars
+  704  rails g scaffold car make color year:integer
+  705  rake db:migrate
+  706  rails server
+  707  rails db
+  708  rake db:rollback
+  709  rails db
+  710  rails g scaffold car make color year:integer
+  711  rake db:migrate
+  712  rails g migration add_price_to_cars 'price:decimal{10,2}'
+  713  rake db:migrate
+  714  rails db
+  715  rails g model person first_name last_name
+  716  rails db:migrate
+  717  rake db:migrate
+  718  history >> history.txt
+  719  sbl history
+  720  subl history
+  721  history
+  722  history >> history.txt
+  723  subl history
+  724  irb
+  725  rails console
+  726  rails c
+  727  cd home
+  728  cd HOME
+  729  cd ..
+  730  git clone https://github.com/jhu-ep-coursera/fullstack-course2-module2-advanced-ar.git
+  731  rails console
+  732  rails db
+  733  git status
+  734  git add *
+  735  git status
+  736  git commit -m "Course Two - Module 1- Fancy cars"
+  737  git push origin master
+  738  rails new advanced_ar
+  739  cd advanced_ar
+  740  rails generate model person first_name age:integer last_name
+  741  rake db:migrate
+  742  rake --describe db:seed
+  743  rails db
+  744  rake --describe db:seed
+  745  rails db
+  746  rake db:seed
+  747  rails db
+  748  rails g migration add_login_pass_to_people login pass
+  749  rake db:migrate
+  750  rails s
+  751  cd ..
+  752  cd fancy_cars
+  753  rails s
+  754  rails c
+  755  rails db
+  756  cd ..
+  757  cd advanced_ar
+  758  rails db
+  759  rake db:seed
+  760  rails db
+  761  rails c
+  762  rails g model personal_info height:float weight:float person:references
+  763  rake db:migrate
+  764  rails db
+  765  rails c
+  766  rake db:migrate
+  767  rails c
+  768  rails db
+  769  rails c
+  770  git status
+  771  git add *
+  772  git status
+  773  git commit -m "Advanced Active Record half"
+  774  git push origin master
+  775  rails g model job title company position_id person:references
+  776  rake db:migrate
+  777  rails db
+  778  rake db:migrate
+  779  rails db
+  780  cd ..
+  781  mysql --version
+  782  sudo apt-get update
+  783  sudo apt-get install mysql-server
+  784  sudo apt-get instal mysql-server
+  785  sudo mysql_secure_installation
+  786  sudo mysql_install_db
+  787  cd /RailsPersonal/FirstRubyProjects/advanced_ar
+  788  cd RailsPersonal/FirstRubyProjects/advanced_ar
+  789  cd RailsPersonal
+  790  ls
+  791  cd ..
+  792  cd HOME
+  793  cd home
+  794  rails g hobby name
+  795  rails g migration create_hobbies_people person:references hobby
+  796  rails g migration create_hobbies_people person:references hobby:references
+  797  rails g migration create_hobbies_people person:references hobby:references --force
+  798  rake db:migrate
+  799  rails g hobby name
+  800  rails g model hobby name
+  801  rails g migration create_hobbies_people person:references hobby:references --force
+  802  rake db:migrate
+  803  rails db
+  804  rake db:migrate
+  805  rails db
+  806  rails g model hobby name
+  807  rails g migration create_hobbies_people person:references hobby:references --force
+  808  rake db:migrate
+  809  rake db:migrate -- trace
+  810  rake db:migrate --trace
+  811  rails db
+  812  rake db:migrate
+  813  rails db
+  814  rake db:migrate
+  815  cd ..
+  816  git revert
+  817  rails c
+  818  cd ..
+  819  history >> history.txt
+  820  subl history.txt
+  821  rails db
+  822  bundle install
+  823  subl history.txt
+  824  cd ..
+  825  subl history.txt
+  826  git status
+  827  git add .
+  828  git status
+  829  git stash save "Temp"
+  830  git status
+  831  git stash list
+  832  rails db
+  833  cd advanced_ar
+  834  rails db
+  835  rails c
+  836  rails g model hobby name
+  837  rails g migration create_hobbies_people person:references hobby:references
+  838  rake db:migrate
+  839  rails db
+  840  rails g model job title company position_id person:references
+  841  rake db:migrate
+  842  rails db
+  843  rake db:migrate
+  844  rails g model salary_range min_salary:float max_salary:float job:references
+  845  rake db:migrate
+  846  rails db
+  847  rake db:migrate
+  848  rails db
+  849  rails g migration add_salary_range_id_to_jobs salary_range_id:integer
+  850  rake db:migrate
+  851  rails db
+  852  remove_column :jobs :salary_range_id
+  853  rails g migration remove_column :jobs, :salary_range_id
+  854  rails g migration remove_foreign_key :jobs, :salary_range_id
+  855  rails db
+  856  rake db:migrate
+  857  rails db
+  858  rake db:migrate
+  859  rails db
+  860  rails g migration remove_foreign_key :jobs, :salary_range_id
+  861  rake db:migrate
+  862  rails g migration remove_column :jobs, :salary_range_id
+  863  rake db:migrate
+  864  rails db
+  865  josh = Person.find_by first_name: "Josh"
+  866  rails c
+  867  rake routes
+  868  rails g controller notes
+  869  rake routes
+  870  rake db:seed
+  871  rails db
+  872  git clone https://github.com/jhu-ep-coursera/fullstack-course2-module3-blogposts.git
+  873  cd FirstRubyProjects
+  874  rails new my_blog
+  875  git status
+  876  git add .
+  877  git status
+  878  git commit -m "Asociations added to advanced ar"
+  879  git push origin master
+  880  git status
+  881  cd my_blog
+  882  rails g scaffold post title content:text
+  883  rake db:migrate
+  884  rail s
+  885  rails s
+  886  cd ..
+  887  git clone https://github.com/jhu-ep-coursera/fullstack-course2-module4-i-reviewed.git
+  888  rails new i_reviewed
+  889  cd i_reviewed
+  890  rails g model reviewer name password_digest
+  891  rails g model book name author reviewer:references
+  892  rails g model note title note:text reviewer:references
+  893  rake db:migrate
+  894  rails g migration drop_table :notes
+  895  rake db:migrate
+  896  rails db
+  897  rails g model note title note:text books:references
+  898  rails g model note title note:text books:references --force
+  899  rake db:migrate
+  900  rails db
+  901  rails g migration drop_table :notes
+  902  rake db:migrate
+  903  rails db
+  904  rails g model note title note:text book:references --force
+  905  rake db:seed
+  906  rake db:migrate
+  907  rake db:seed
+  908  rails db
+  909  rails g scaffold_controller book name author
+  910  rails c
+  911  rails s
+  912  rails g model note title note:text book:references --force
+  913  rake db:migrate
+  914  rails db
+  915  rails g model note title note:text book:references
+  916  rake db:migrate
+  917  rails db
+  918  rails g model note title note:text book:references
+  919  rails d migration drop_table :notes
+  920  rake db:migrate
+  921  rails db
+  922  rake db:seed
+  923  rails s
+  924  kill -9 $(lsof -i tcp:3000 -t)
+  925  rails s
+  926  kill -9 $(lsof -i tcp:3000 -t)
+  927  cd ..
+  928  git status
+  929  git add .
+  930  git status
+  931  git commit -m "i_reviewed basics - nested resources"
+  932  git push origin master
+  933  svn status
+  934  svn add Build_68
+  935  svn status
+  936  svn commit -m "Build 68"
+  937  rails c
+  938  adb install LatexMobile.apk
+  939  svn checkout https://fibonacci.robosoft.co.in/Builds/Android/
+  940  bundle
+  941  rails s
+  942  bundle
+  943  rails c
+  944  rails db
+  945  rake db:seed
+  946  rails d migration create_notes
+  947  rake db:migrate
+  948  rake db:seed
+  949  rails c
+  950  rails g controller sessions new create destroy
+  951  rake routes
+  952  rails s
+  953  rails c
+  954  bundle
+  955  rails c
+  956  rails s
+  957  bundle --without production
+  958  git status
+  959  git add .
+  960  git status
+  961  git commit -m "trying to deploy"
+  962  git push origin master
+  963  cd ..
+  964  git status
+  965  cd i_reviewed
+  966  git status
+  967  ls
+  968  heroku login
+  969  heroku create books-ireview
+  970  heroku create books-i_review
+  971  heroku create books-i-review-10
+  972  git push heroku master
+  973  heroku
+  974  herokugit remote -v
+  975  git remote -v
+  976  git push heroku master
+  977  heroku git:remote -a books-i-review-10
+  978  git remote -v
+  979  git push heroku master
+  980  heroku buildpacks:set heroku/ruby
+  981  git push heroku master
+  982  ls
+  983  git push heroku master
+  984  bundle install --without production
+  985  git push heroku master
+  986  heroku create books-ireview
+  987  heroku create books-i-review-20
+  988  git push heroku master
+  989  heroku git:remote -a books-i-review-10
+  990  heroku git:remote -a books-i-review-20
+  991  herokugit remote -v
+  992  git remote -v
+  993  git push heroku master
+  994  heroku buildpacks:set heroku/ruby
+  995  git push heroku master
+  996  git push heroku develop:master
+  997  git status
+  998  git commit -m "GemFile changes"
+  999  git add .
+ 1000  git commit -m "GemFile changes"
+ 1001  git push origin master
+ 1002  git remote -v
+ 1003  git push heroku master
+ 1004  heroku buildpacks
+ 1005  rails s
+ 1006  rails s
+ 1007  bundle
+ 1008  bundle update
+ 1009  bundle
+ 1010  bundle install
+ 1011  rails s
+ 1012  rails -v
+ 1013  ruby -v
+ 1014  gem update --system 2.3.3
+ 1015  ruby -v
+ 1016  rvm install 2.3.0
+ 1017  bundle update
+ 1018  bundle install
+ 1019  gem update rails
+ 1020  bundle update
+ 1021  bundle install
+ 1022  rails -v
+ 1023  ruby -v
+ 1024  rails s
+ 1025  rails db:migrate
+ 1026  rails db:seed
+ 1027  rails s
+ 1028  rails db:migrate
+ 1029  rails s
+ 1030  bundle update
+ 1031  bundle install
+ 1032  rails db:migrate
+ 1033  rails db:seed
+ 1034  rails s
+ 1035  rails db:migrate
+ 1036  rails db:seed
+ 1037  rails s
+ 1038  rails db
+ 1039  git status
+ 1040  rails new shopping_app
+ 1041  rails g model Product name 'price:decimal{12,3}' active:boolean
+ 1042  cd shopping_app
+ 1043  rails g model Product name 'price:decimal{12,3}' active:boolean
+ 1044  rails g model OrderStatus name:String
+ 1045  rails g model Order  'subtotal:decimal{12,3}' 'tax:decimal{12,3}' 'shipping:decimal{12,3}' 'total:decimal{12,3}' order_status:references
+ 1046  rails g model OrderItem product:references order:references 'unit_price:decimal{12:3}' quantity:integer 'total_price:decimal{12,3}'
+ 1047  rake db:migrate
+ 1048  rails g model OrderStatus name:string
+ 1049  rails g model OrderStatus name:string --force
+ 1050  rake db:migrate
+ 1051  rails g model OrderItem product:references order:references 'unit_price:decimal{12,3}' quantity:integer 'total_price:decimal{12,3}' --force
+ 1052  rake db:migrate
+ 1053  rake db:seed
+ 1054  rails g controller Products index
+ 1055  rails g controller Carts show
+ 1056  rails g controller OrderItems create update destroy
+ 1057  rails s
+ 1058  rails c
+ 1059  rails db
+ 1060  rails s
+ 1061  rails db
+ 1062  rails -v
+ 1063  ruby -v
+ 1064  rails db
+ 1065  git status
+ 1066  cd FirstRubyProjects
+ 1067  git status
+ 1068  git add .
+ 1069  git status
+ 1070  git commit -m "Shopping app example (2 examples)"
+ 1071  git push origin master
+ 1072  rails new deviseapp
+ 1073  bundle
+ 1074  cd deviseapp
+ 1075  bundle
+ 1076  rails generate devise:install
+ 1077  rails generate devise USER
+ 1078  rails g scaffold Post title:string content:text
+ 1079  rails g controller home index
+ 1080  rake db:migrate
+ 1081  rails s
+ 1082  rake db:migrate VERSION=0
+ 1083  rake db:migrate
+ 1084  rails s
+ 1085  cd ..
+ 1086  sudo apt-get update
+ 1087  sudo apt-get install imagemagick -y
+ 1088  which convert
+ 1089  rake db migrate
+ 1090  rake db:migrate
+ 1091  bundle install
+ 1092  bundle update
+ 1093  rails g paperclip post image
+ 1094  rake db:migrate
+ 1095  rails s
+ 1096  rake db:migrate
+ 1097  rake db:migrate VERSION=0
+ 1098  rake db:migrate
+ 1099  rake db:migrate VERSION=0
+ 1100  rake db:migrate
+ 1101  rails s
+ 1102  rails c
+ 1103  rails s
+ 1104  bundle
+ 1105  bundle update
+ 1106  bundle
+ 1107  rails s
+ 1108  cd ..
+ 1109  git status
+ 1110  git add .
+ 1111  git stash list
+ 1112  git commit -m "Devise gem, paper clip gem and STI example"
+ 1113  git status
+ 1114  git push origin master
+ 1115  history >> history.txt

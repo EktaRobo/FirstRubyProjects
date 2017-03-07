@@ -1,0 +1,9 @@
+<h3 class="text-center">Products for Sale</h3>
+
+<div class="row">
+  <div class="col-xs-6 col-xs-offset-3">
+    <% @items.each do |item| %>
+      <%= render "item_row", item: item, cart: @cart, order: @order %>
+    <% end %>
+  </div>
+</div>

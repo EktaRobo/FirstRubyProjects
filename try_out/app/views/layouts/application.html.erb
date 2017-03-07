@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Grocery Management </title>
+    <%= csrf_meta_tags %>
+   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <% if request.ssl? %>
+    <%= stylesheet_link_tag 'https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' %>
+    <%= javascript_include_tag 'https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js' %>
+  <% else %>
+    <%= stylesheet_link_tag 'http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' %>
+    <%= javascript_include_tag 'http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js' %>
+  <% end %>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  </head>
+
+  <body>
+    <% flash.each do |key, value| %>
+        <p id='<%=key%>'><%=value%></p>
+    <%end%>
+    <div class="container">
+    <div class="row">
+      <div class="col-xs-6">
+        <h1><%= link_to "My Store", root_path %></h1>
+      </div>
+    </div>
+    <hr>
+
+    <% if user_signed_in? %>
+    <p> Hello, <%= current_user.name%> - <%= link_to "Sign Out", destroy_user_session_path,
+    :method => :delete %> </p>
+    <br>
+    <% end %>
+    <%= yield %>
+  </body>
+</html>

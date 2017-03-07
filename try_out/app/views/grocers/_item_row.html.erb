@@ -1,0 +1,25 @@
+<div class="well">
+
+  <div class="row">
+    <div class="col-xs-8">
+      <h4><%= item.name %></small></h4>
+    </div>
+    <div class="col-xs-4">
+
+      <%= form_for cart, remote: true do |f| %>
+      <h4 class="text-right">Unit Price: <span style="color: green"><%= number_to_currency item.price_per_unit %></span></h4>
+        <div class="input-group">
+          <%= f.number_field :quantity, value: 1, class: "form-control", max: item.units_in_stock %>
+          <div class="input-group-btn">
+            <%= f.hidden_field :Item_id, value: item.id %>
+            <%= f.hidden_field :Order_id, value: order.id %>
+            <%= f.submit "Add to Cart", class: "btn btn-primary" %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+
+  </div>
+</div>
+
+

@@ -1,0 +1,2 @@
+class Grocer < User
+end
